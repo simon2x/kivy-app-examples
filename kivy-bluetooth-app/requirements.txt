@@ -1,0 +1,13 @@
+certifi==2020.6.20
+chardet==3.0.4
+Cython==0.29.21
+docutils==0.16
+idna==2.10
+Kivy==1.11.1
+Kivy-Garden==0.1.4
+kivymd==0.104.1
+Pillow==8.0.1
+Pygments==2.7.2
+requests==2.24.0
+six==1.15.0
+urllib3==1.25.11
